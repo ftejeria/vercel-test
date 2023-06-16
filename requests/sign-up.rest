@@ -1,4 +1,4 @@
-POST https://testing-vercel-deployment-wallet.vercel.app/user/sign-up HTTP/1.1
+POST https://vercel-test-six-psi.vercel.app//user/sign-up HTTP/1.1
 content-type: application/json
 
 {
