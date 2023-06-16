@@ -8,7 +8,8 @@
     "start": "node ./src/app.js",
     "dev": "nodemon ./src/app.js",
     "test": "NODE_ENV=TEST PORT=3001 jest --verbose --silent --detectOpenHandles",
-    "test:watch": "npm test -- --watch"
+    "test:watch": "npm test -- --watch",
+    "vercel-build": "echo hello"
   },
   "keywords": [],
   "author": "",
